@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "14.8.0",
+  "description": "Simple web app",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhangitiwari1909/intro-to-node.git"
+  },
+  "author": "shubhangi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhangitiwari1909/intro-to-node/issues"
+  },
+  "homepage": "https://github.com/shubhangitiwari1909/intro-to-node#readme"
+}
